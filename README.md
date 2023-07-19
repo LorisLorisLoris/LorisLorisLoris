@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Loris
-- 👀 I’m interested in Web Development, Digital Design, Low-code...
+- 👀 I’m interested in Web Development, Digital Design, UX...
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on beautiful digital projects
 - 📫 Let's connect https://www.linkedin.com/in/lorisassemat
